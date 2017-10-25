@@ -5,4 +5,4 @@
  * Time: 11:44 AM
  */
 
-echo 'ok';
+echo 'ok 1';
